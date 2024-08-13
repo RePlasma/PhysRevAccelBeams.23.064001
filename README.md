@@ -1,10 +1,10 @@
-# Model-independent inference of laser intensity, PHYSICAL REVIEW ACCELERATORS AND BEAMS 23, 064001 (2020)
+# Model-independent inference of laser intensity
 
 Original authors of paper: T. G. Blackburn, E. Gerstmayr, S. P. D. Mangles, and M. Marklund
 
 Link to paper: https://journals.aps.org/prab/abstract/10.1103/PhysRevAccelBeams.23.064001
 
-Results partially reproduced by: Óscar Amaro
+Results partially reproduced by: [Óscar Amaro](https://github.com/OsAmaro)
 
 We reproduce figures 1, 2, 5 and 6.
 
